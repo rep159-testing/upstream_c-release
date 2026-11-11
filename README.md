@@ -1,3 +1,26 @@
+## upstream_c (derived) - 0.1.0-1
+
+The packages in the `upstream_c` repository were released into the `derived` distro by running `/home/jrivero/code/rep159-testing/bloom-shell/venv/bin/bloom-release --rosdistro derived --track derived upstream_c --override-release-repository-url https://github.com/rep159-testing/upstream_c-release.git --override-release-repository-push-url git@github.com:rep159-testing/upstream_c-release.git --non-interactive --no-web` on `Wed, 11 Nov 2026 13:17:09 -0000`
+
+The `upstream_c` package was released.
+
+Version of package(s) in repository `upstream_c`:
+
+- upstream repository: https://github.com/rep159-testing/upstream_c.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## upstream_c (ground) - 0.1.0-1
 
 The packages in the `upstream_c` repository were released into the `ground` distro by running `/home/jrivero/code/rep159-testing/bloom-shell/venv/bin/bloom-release --rosdistro ground --track ground upstream_c --override-release-repository-url https://github.com/rep159-testing/upstream_c-release.git --override-release-repository-push-url git@github.com:rep159-testing/upstream_c-release.git --non-interactive --no-web` on `Wed, 11 Nov 2026 12:44:52 -0000`
